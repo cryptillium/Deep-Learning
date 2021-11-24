@@ -7,3 +7,8 @@ The project will cover the following processes:
 - Build and train custom LSTM RNNs
 - Evaluate the performance of each model
 
+
+# Installation Requirements
+Please run the following commands:
+- conda install -c conda-forge tensorflow
+- pip install --upgrade tensorflow
